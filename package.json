@@ -1,0 +1,22 @@
+{
+  "name": "watchmyspot",
+  "version": "0.1.0.0",
+  "description": "follow and find your best surf spot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ptournem/WatchMySpot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ptournem/WatchMySpot/issues"
+  },
+  "homepage": "https://github.com/ptournem/WatchMySpot#readme",
+  "dependencies": {
+    "materialize-css": "^1.0.0-rc.2"
+  }
+}
